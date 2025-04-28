@@ -3,7 +3,7 @@
   <p>This is a simple Netflix landing page clone created purely using <strong>HTML</strong> and <strong>CSS</strong>. This project is part of my personal learning journey to understand the fundamentals of web development and layout design.</p>
 
   <h2>🔗 Live Demo</h2>
-  <p>Check out the hosted version here: <a href="https://amankrm-dev.github.io/NetfilxClone/" target="_blank">Netflix Clone on GitHub Pages</a></p>
+  <p>Check out the hosted version here: <a href="https://amankrm-dev.github.io/NClone/" target="_blank">Netflix Clone on GitHub Pages</a></p>
 
   <h2>📂 Features</h2>
   <ul>
